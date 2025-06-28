@@ -1,6 +1,19 @@
-## INFS4205/7205 Advanced Techniques in High-Dimensional Data 2025
+# INFS4205/7205 Advanced Techniques in High-Dimensional Data 
 
-![INFS4205/7205 Banner](https://github.com/user-attachments/assets/28ba2fe3-bbbb-41ef-8bd3-ed6c246f0fbc)
+<p align="center">
+  <strong>Semester 1, 2025 · <a href="https://programs-courses.uq.edu.au/course.html?course_code=INFS7205">Course Profile & ECP</a></strong><br>
+  Coordinator: Dr Yadan Luo (https://luoyadan.github.io/) · Co-Lecturer: Dr Zixin Wang · Tutors: Ivan Chen, Danny Wang, Yan Jiang, Selena Song
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/PostGIS-0064a5?style=for-the-badge&logo=postgis&logoColor=white" alt="PostGIS Badge"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+</p>
 
 ---
 
