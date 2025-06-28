@@ -40,7 +40,9 @@ Students design, implement, and analyze advanced spatial and spatio-temporal que
 
 #### 💻 Type II — Interactive Web-Based Analytics
 
-Students build full-stack web applications to explore high-dimensional datasets through intuitive, dynamic interfaces. These apps integrate modern frontend frameworks (e.g., React) with powerful backend logic (Node.js, Python, PostgreSQL).
+Students build full-stack web applications to explore high-dimensional datasets through intuitive, dynamic interfaces. These apps integrate modern frontend frameworks (e.g., React) with powerful backend logic (Node.js, Python, PostgreSQL). AI-assisted IDE, e.g., Cursor, is encouraged to be used.
+
+🌟 **Sample Project**: [McDonalds-Store-Locator](https://github.com/INFS4205-7205-2025/McDonalds-Store-Locator) - Zixin Wang
 
 **Example features:**
 - Customizable spatial search tools (e.g., *"Find all cafes within 500m open after 6pm"*)
