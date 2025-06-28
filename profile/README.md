@@ -55,12 +55,12 @@ Students build full-stack web applications to explore high-dimensional datasets 
 
 We are proud to recognize these students for their exceptional projects demonstrating technical excellence and creativity:
 
-- Xiaoyu Zhuang
+- **Xiaoyu Zhuang**: [Type I: Taxi Trajectory Analysis Project](https://github.com/INFS4205-7205-2025/infs4205-taxi-trajectory-analysis-project-2025)
 - Jingxi Zhang
 - Liyue Zeng
-- Chi-Hsuan Wu
-- Weiting Wang
-- Chi Wang
+- **Chi-Hsuan Wu**: [Type II: Explore Tokyo 🌸⛩️](https://github.com/INFS4205-7205-2025/Explore-Tokyo-INFS7205-A2) 
+- Weiting Wang 
+- **Chi Wang**: [Type II: Taxi Trajectory Analysis](https://github.com/INFS4205-7205-2025/INFS7205-Type-2-Project-Taxi-Traj)
 - Xincong Ren
 - Kyle Mackie
 - Nathan Leeks
@@ -68,6 +68,7 @@ We are proud to recognize these students for their exceptional projects demonstr
 - Matthew Gent
 - Rachit Chaurasia
 
+👉 **Don’t forget to ⭐ star student repositories if you find them inspiring or useful!**
 ---
 
 ### 🎖️ Peer Support Award
