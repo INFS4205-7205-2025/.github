@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Semester 1, 2025 · <a href="https://programs-courses.uq.edu.au/course.html?course_code=INFS7205">Course Profile & ECP</a></strong><br>
-  Coordinator: Dr Yadan Luo (https://luoyadan.github.io/) · Co-Lecturer: Dr Zixin Wang · Tutors: Ivan Chen, Danny Wang, Yan Jiang, Selena Song
+  Coordinator: Dr Yadan Luo (https://luoyadan.github.io/) · Co-Lecturer: Dr Zixin Wang 
+  <br> Tutors: Ivan Chen, Danny Wang, Yan Jiang, Selena Song
 </p>
 
 
